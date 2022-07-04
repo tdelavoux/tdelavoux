@@ -2,6 +2,7 @@
 
 
 🔭 I’m currently working on Atom, css & Js framework
+
 🌱 I’m currently learning Vanilla JS and Vue Js integrated to Laravel
 
 💬 Contact me : thibault.delavoux@gmail.com
